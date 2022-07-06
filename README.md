@@ -1,3 +1,19 @@
+
+## 🛠 사용기술
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+
+## 📅 기간
+
+2022.06.14 ~ 2022.06.21
+
+## 🤼‍♀️ 팀 구성
+
+|                                  조규준                                  |                                 김지연                                 |                                  현병택                                  |      
+| :----------------------------------------------------------------------: | :--------------------------------------------------------------------: | :----------------------------------------------------------------------: | 
+|               [@ggyu777](https://github.com/ggyu777)               |                [@jytrack64](https://github.com/jytrack64)                |               [@ctaaag](https://github.com/ctaaag)               |                 
+| <img src="https://i.esdrop.com/d/f/QO8Lg44uTN/jI7WF726mq.jpg" width="100"> | <img src="http://file3.instiz.net/data/file3/2019/01/16/3/6/8/368bf7fd300d73d9873ff1c303b603e2.gif" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/ctaaag" width="100"> | 
+
 ## Description
 플로깅 웹 어플리케이션 '줍고' 입니다.
 줍고는 플로깅 행사 정보를 모아서 보여주고, 플로깅을 지원하는 런닝 기능을 지원합니다
